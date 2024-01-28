@@ -1,6 +1,6 @@
 ## ♡ hello! ♡
 
-<br>I am a Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio.</a>
+<br>I'm a 21-year-old Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio.</a>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=monicaalyssa&color=ffb6c1&abbreviated=true)
 <br>
@@ -22,7 +22,6 @@
 ### My Links:
 
 <a href="https://www.linkedin.com/in/monica-williams1/" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/linkedin.svg"></a>
-<a href="https://github.com/monicaalyssa" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/github.svg"></a>
 
 
 
