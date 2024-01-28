@@ -1,6 +1,6 @@
 ## ♡ hello! ♡
 
-<br>I am a Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/about.html">my portfolio.</a>
+<br>I am a Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/">my portfolio.</a>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=monicaalyssa&color=ffb6c1)
 <br>
