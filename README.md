@@ -22,6 +22,7 @@
 ### My Links:
 
 <a href="https://www.linkedin.com/in/monica-williams1/" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/linkedin.svg"></a>
+<a href="https://github.com/monicaalyssa" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/github.svg"></a>
 
 
 
