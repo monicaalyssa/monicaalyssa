@@ -2,7 +2,7 @@
 
 <br>I am a Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/">my portfolio.</a>
 <br><br>
-![](https://komarev.com/ghpvc/?username=monicaalyssa&color=ffb6c1)
+![](https://komarev.com/ghpvc/?username=monicaalyssa&color=ffb6c1&abbreviated=true)
 <br>
 ## My Languages & Tools:                               
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
