@@ -1,6 +1,6 @@
 ## ♡ hello! ♡
 
-<br>I am a Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/">my portfolio.</a>
+<br>I am a Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio.</a>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=monicaalyssa&color=ffb6c1&abbreviated=true)
 <br>
@@ -13,7 +13,19 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+### I'm currently learning:
+   
+    - JavaScript
+    
+    - jQuery
 
+### My Links:
+
+<a href="https://www.linkedin.com/in/monica-williams1/" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/linkedin.svg"></a>
+
+
+
+##
 
 <!---
 monicaalyssa/monicaalyssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
