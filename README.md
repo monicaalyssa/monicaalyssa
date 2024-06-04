@@ -20,6 +20,8 @@
 ### I'm currently learning:
     
 `Node.js`
+`SQL`
+`Express`
 
 ### My Links:
 
