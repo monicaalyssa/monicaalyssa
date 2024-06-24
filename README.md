@@ -1,6 +1,6 @@
 ## ♡ hello! ♡
 
-<br>I'm a 21-year-old Web Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio</a>.
+<br>I'm a 21-year-old Full-Stack Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio</a>.
 <br><br>
 ![](https://komarev.com/ghpvc/?username=monicaalyssa&color=ffb6c1&abbreviated=true)
 <br>
