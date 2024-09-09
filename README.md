@@ -31,7 +31,7 @@ Extras
   
 I'm currently...
 <br>
-💬 Learning React & AWS
+Learning React & AWS
 
 :basecampy:
 </div>
