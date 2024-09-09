@@ -31,7 +31,9 @@ Extras
   
 I'm currently...
 <br>
-:basecampy: Learning React & AWS
+💬: Learning React & AWS
+
+:basecampy:
 </div>
 
 <div align="center">
