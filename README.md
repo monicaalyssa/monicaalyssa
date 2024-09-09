@@ -7,7 +7,7 @@ Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_b
 </div>
 <br>
 
-### <div align="center">Languages & Tools</div>
+### <div align="center">🛠️ Languages & Tools</div>
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
