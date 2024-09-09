@@ -1,4 +1,4 @@
-## ♡ hello! ♡
+## <div align="center">♡ Hello ♡</div>
 
 <br>I'm a 21-year-old Full-Stack Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio</a>.
 <br><br>
