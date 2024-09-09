@@ -29,8 +29,9 @@ Extras
 
 <div align="center">
   
-### I'm currently...
-Learning React & AWS
+### I'm currently learning...
+![React](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)
+![Aws](https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png)
 <br>
 <br>
 <img align="center" src="/Teddy Bear.png" alt="Teddy Bear"/>
