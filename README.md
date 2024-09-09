@@ -32,6 +32,7 @@ Extras:
 </div>
 
 <div align="center">
+  
 I'm currently learning:
 <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,7 +41,7 @@ I'm currently learning:
 
 <div align="center">
   
-### My Links:
+### Socials:
 
 <a href="https://www.linkedin.com/in/monica-williams1/" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/linkedin.svg"></a>
 </div>
