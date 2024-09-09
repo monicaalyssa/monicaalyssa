@@ -30,8 +30,8 @@ Extras
 <div align="center">
   
 ### I'm currently...
-<br>
 Learning React & AWS
+<br>
 <br>
 <img align="center" src="/Teddy Bear.png" alt="Teddy Bear"/>
 </div>
