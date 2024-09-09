@@ -40,6 +40,9 @@ Learning React & AWS
   
 ##
 
+<a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">Portfolio</a> · <a href="mailto:malyssatech@gmail.com">Contact</a>
+
+
 <!---
 monicaalyssa/monicaalyssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
