@@ -29,7 +29,7 @@ Extras
 
 <div align="center">
   
-### I'm currently...
+### 💭 I'm currently...
 Learning React & AWS
 <br>
 <br>
