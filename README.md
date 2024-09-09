@@ -32,7 +32,7 @@ Extras
 ### I'm currently...
 <br>
 Learning React & AWS
-
+<br>
 <img align="center" src="/Teddy Bear.png" alt="Teddy Bear"/>
 </div>
 
