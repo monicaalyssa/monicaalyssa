@@ -33,7 +33,7 @@ I'm currently...
 <br>
 Learning React & AWS
 
-:basecampy:
+<img align="center" src="images/Teddy Bear.png" alt="Teddy Bear"/>
 </div>
 
 <div align="center">
