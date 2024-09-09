@@ -4,9 +4,9 @@
 <div align="center">I'm a 21-year-old Full-Stack Developer based in South Florida. Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio</a>.</div>
 <br><br>
 
-<br>
+# <div align="center">Languages & Tools</div>
 <div align="center">
-# Languages & Tools:                               
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
