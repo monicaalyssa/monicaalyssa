@@ -7,7 +7,7 @@ Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_b
 </div>
 <br><br>
 
-# <div align="center">Languages & Tools</div>
+### <div align="center">Languages & Tools</div>
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,17 +29,22 @@ Extras:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
+
+<div align="center">
 ### I'm currently learning:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+</div>
+
+<div align="center">
+  
 ### My Links:
 
 <a href="https://www.linkedin.com/in/monica-williams1/" target="_blank"><img src="https://github.com/monicaalyssa/monicaalyssa/blob/main/images/linkedin.svg"></a>
 
-
-
+</div>
 ##
 
 <!---
