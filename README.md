@@ -1,7 +1,7 @@
 ## <div align="center">♡ Hello ♡</div>
 <br>
 <div align="center">
-I'm Monica, a 21-year-old Full-Stack Developer based in South Florida. 
+I'm Monica, a 22-year-old Full-Stack Developer based in South Florida. 
 <br>
 Check out <a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">my portfolio</a>.
 </div>
