@@ -40,7 +40,7 @@ Learning React & AWS
   
 ##
 
-<a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">Portfolio</a> · <a href="mailto:malyssatech@gmail.com">Contact</a>
+<a href="https://monicaalyssa.github.io/portfolio-website/" target="_blank">Portfolio</a> · <a href="https://devpost.com/monicatech">Devpost</a> · <a href="mailto:malyssatech@gmail.com">Contact</a>
 
 
 <!---
