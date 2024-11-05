@@ -36,7 +36,7 @@ Extras
 <div align="center">
   
 ### I'm currently...
-Learning React & AWS
+Learning React Native & AWS
 <br>
 <br>
 <img align="center" src="/Teddy Bear.png" alt="Teddy Bear"/>
