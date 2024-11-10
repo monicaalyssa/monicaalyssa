@@ -34,6 +34,7 @@ Extras
 </div>
 
 <div align="center">
+
   
 ### I'm currently...
 Learning React Native & AWS
