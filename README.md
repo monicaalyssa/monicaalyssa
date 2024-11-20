@@ -40,7 +40,7 @@ Extras
 <br>
   
 ### I'm currently...
-Learning React Native & AWS
+Learning React Native, Firebase, and Angular
 <br>
 <br>
 <img align="center" src="/Teddy Bear.png" alt="Teddy Bear"/>
