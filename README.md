@@ -50,7 +50,7 @@ Learning React Native, Firebase, and Angular
   
 ##
 
-<a href="https://monicaalyssa.vercel.app/" target="_blank">Portfolio</a> · <a href="https://devpost.com/monicatech">Devpost</a> · <a href="mailto:malyssatech@gmail.com">Contact</a>
+<a href="https://monicaalyssa.vercel.app/" target="_blank">Portfolio</a> · <a href="https://devpost.com/monicatech">Devpost</a> · <a href="mailto:monicaalyssa.tech@gmail.com">Contact</a>
 
 
 <!---
