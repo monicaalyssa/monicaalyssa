@@ -3,7 +3,7 @@
 <div align="center">
 I'm Monica, a 22-year-old Full-Stack Developer based in South Florida. 
 <br>
-Check out <a href="https://monicaalyssa.github.io/portfolio/" target="_blank">my portfolio</a>.
+Check out <a href="https://monicaalyssa.vercel.app/" target="_blank">my portfolio</a>.
 </div>
 <br>
 
