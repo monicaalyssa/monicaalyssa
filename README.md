@@ -40,7 +40,9 @@ Extras
 <br>
   
 ### I'm currently...
-Learning React Native, Firebase, and Angular
+☆ **Learning:** React Native, Firebase, and Angular ☆
+
+☆ **Building:** A mortgage website and a mobile chat app ☆
 <br>
 <br>
 <img align="center" src="/Teddy Bear.png" alt="Teddy Bear"/>
