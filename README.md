@@ -40,7 +40,7 @@ Extras
 <br>
   
 ### I'm currently...
-☆ **Learning:** Next.js and Firebase ☆
+☆ **Learning:** Sanity.io and Next.js ☆
 
 ☆ **Building:** A mortgage website ☆
 <br>
